@@ -1,0 +1,9 @@
+pyTelegramBotAPI==4.22.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+Pillow==10.2.0
+numpy==1.26.4
+flask==3.0.2
+onnxruntime==1.17.3
+# Nếu set PROXY_URL dạng socks5://... thì bỏ comment dòng dưới:
+# pysocks==1.7.1
